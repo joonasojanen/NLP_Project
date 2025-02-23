@@ -11,6 +11,9 @@
 
 ## Project description
 
+This project uses Natural Language Processing (NLP) techniques to analyze Finnish Wikipedia pages related to selected environmental topics.
+
+
 Project 23: Environment keyword mapping
 
 This project aims to review selected environmental topics according to Finnish Wikipedia-based description,
